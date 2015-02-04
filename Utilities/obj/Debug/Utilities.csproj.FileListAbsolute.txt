@@ -1,0 +1,5 @@
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\Utilities\bin\Debug\Utilities.dll
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\Utilities\bin\Debug\Utilities.pdb
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\Utilities\obj\Debug\Utilities.dll
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\Utilities\obj\Debug\Utilities.pdb
