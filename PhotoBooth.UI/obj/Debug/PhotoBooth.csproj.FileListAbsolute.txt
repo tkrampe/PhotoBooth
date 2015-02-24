@@ -1,0 +1,14 @@
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.config
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.pdb
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.pdb
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\Utilities.dll
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\bin\Debug\Utilities.pdb
+c:\users\tyler\documents\visual studio 2013\Projects\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.MainForm.resources
+C:\Users\Tyler\Documents\GitHub\PhotoBooth\PhotoBooth\bin\Debug\PhotoBooth.exe.config
+C:\Users\Tyler\Documents\GitHub\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.exe
+C:\Users\Tyler\Documents\GitHub\PhotoBooth\PhotoBooth\obj\Debug\PhotoBooth.pdb

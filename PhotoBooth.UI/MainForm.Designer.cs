@@ -1,4 +1,4 @@
-﻿namespace PhotoBooth
+﻿namespace PhotoBooth.UI
 {
     partial class MainForm
     {
